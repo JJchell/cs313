@@ -1,0 +1,26 @@
+
+/* 
+    Created on : Sep 25, 2018, 9:47:56 AM
+    Author     : TheChells
+*/
+
+
+#div1 {
+   font-size: 25px;
+  
+}
+
+#div2 {
+   font-size: 35px;
+   background-color: yellow;
+    
+}
+
+#div3 {
+   font-size: 45px;
+   background-color: green;
+}
+
+div:hover {
+    font-weight: bold;
+} 
